@@ -98,3 +98,27 @@ h2, h3 {
     color: #FFD700; 
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); 
 }
+/* Portfolio styles */
+.content h1 {
+    color: rgb(255, 255, 255);
+  }
+  
+  #portfolio {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #portfolio li {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #portfolio li:hover {
+    background: #eee;
+  }
+  
+  #portfolio a {
+    text-decoration: none;
+    color: #454545;
